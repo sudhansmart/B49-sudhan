@@ -1,0 +1,32 @@
+{
+  "name": "Hariharasudhan",
+  "email": "hariharasudhan15@gmail.com",
+  "phone": "9597278968",
+  "address": "3/63,Neduntheru,Parakkai,Kanyakumari",
+  "summary": "A skilled and motivated professional with experience in Petrochemical mechanical field experience, PLC programming automation and industrial robotics experience",
+  "education": [
+    {
+      "institution": "Kalaivanar NSK Polytechnic College",
+      "degree": "Diploma",
+      "major": "Mechanical Engineering",
+      "completionYear": 2015
+    }
+  ],
+  "experience": [
+    {
+      "title": "Automation Tech",
+      "company": "Salcomp plc.",
+      "location": "sriperumbudur,Tamilnadu",
+      "startDate": "2023-03",
+      "endDate": "To present",
+      "description": "Automation Testing Machine Maintenance"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "PLC",
+    "HMI",
+    "Industrial Robot",
+    "Inspection Tool Optimizing"
+  ]
+}
