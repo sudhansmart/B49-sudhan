@@ -1,0 +1,56 @@
+[
+    {
+  "userId": 1,
+  "topicId": 1,
+  "attended": true
+},
+{
+ 
+  "userId": 2,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "userId": 3,
+  "topicId": 1,
+  "attended": false
+},
+{
+  "userId": 4,
+  "topicId": 1,
+  "attended": false
+},
+{
+ 
+  "userId": 5,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "userId": 6,
+  "topicId": 1,
+  "attended": false
+},
+{
+  "userId": 7,
+  "topicId": 1,
+  "attended": true
+},
+{
+  "userId": 8,
+  "topicId": 1,
+  "attended": false
+},
+{
+  "userId": 9,
+  "topicId": 1,
+  "attended": true
+},
+{
+  
+  "userId": 10,
+  "topicId": 1,
+  "attended": false
+}
+   
+]
